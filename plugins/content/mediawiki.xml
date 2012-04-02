@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="content">
+	<name>Content - MediaWiki</name>
+	<author>Chris Davenport</author>
+	<creationDate>12 October 2010</creationDate>
+	<copyright>Copyright (C) 2010 Davenport Technology Services. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>chris.davenport@davenporttechnology.com</authorEmail>
+	<authorUrl>www.davenporttechnology.com</authorUrl>
+	<version>1.0</version>
+	<description>Pull in a page from a MediaWiki instance.</description>
+	<files>
+		<filename plugin="mediawiki">mediawiki.php</filename>
+	</files>
+	<params>
+		<param name="remove_toc" type="radio" default="1" label="Remove table of contents?" description="Remove table of contents from wiki page.">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+		<param name="remove_img_links" type="radio" default="1" label="Remove image links?" description="Remove links from images to wiki image pages.">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</param>
+	</params>
+</install>
