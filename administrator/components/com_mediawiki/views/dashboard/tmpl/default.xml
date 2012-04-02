@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Joomla-MediaWiki dashboard">
+		<message>Dashboard for the Joomla-MediaWiki connection.</message>
+	</layout>
+	<state>
+		<name>Joomla-MediaWiki dashboard</name>
+		<description>Dashboard for the Joomla-MediaWiki connection.</description>
+	</state>
+</metadata>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="MediaWiki namespaces">
+		<message>MediaWiki namespaces.</message>
+	</layout>
+	<state>
+		<name>MediaWiki namespaces</name>
+		<description>List of MediaWiki namespaces.</description>
+	</state>
+</metadata>

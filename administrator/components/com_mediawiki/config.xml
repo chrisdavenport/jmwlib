@@ -1,0 +1,8 @@
+<root>
+	<params>
+		<param name="wiki_url" type="text" default="http://docs.joomla.org"
+											 size="50" label="MediaWiki URL" description="PARAMWIKIURL"/>
+		<param name="wiki_user" type="text" default="" size="50" label="Username" description="PARAMWIKIUSER"/>
+		<param name="wiki_password" type="password" default="" size="50" label="Password" description="PARAMWIKIPASS"/>
+	</params>
+</root>

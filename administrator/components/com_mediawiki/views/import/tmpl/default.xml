@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="MediaWiki import">
+		<message>MediaWiki import.</message>
+	</layout>
+	<state>
+		<name>MediaWiki import</name>
+		<description>Import pages from a MediaWiki namespace into a Joomla category.</description>
+	</state>
+</metadata>

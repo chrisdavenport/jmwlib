@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Show results">
+		<message>Show results of a page rip.</message>
+	</layout>
+	<state>
+		<name>Show results</name>
+		<description>Show results of a page rip.</description>
+	</state>
+</metadata>

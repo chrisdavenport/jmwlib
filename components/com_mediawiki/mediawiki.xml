@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="component" version="1.5.20" method="upgrade">
+	<name>MediaWiki</name>
+	<creationDate>7 September 2010</creationDate>
+	<author>Chris Davenport</author>
+	<authorEmail>chris.davenport@davenporttechnology.com</authorEmail>
+	<authorUrl>http://davenporttechnology.com</authorUrl>
+	<copyright>Copyright &amp; 2010, Davenport Technology Services</copyright>
+	<license>GNU GPL v2 or later</license>
+	<version>1.0.0</version>
+	<description>Demonstration Component for the jmwlib Joomla-MediaWiki library.</description>
+ 
+	<!-- Site Main File Copy Section -->
+	<files>
+		<filename>index.html</filename>
+		<filename>mediawiki.php</filename>
+		<filename>controller.php</filename>
+		<filename>gpl-2.0.txt</filename>
+		<folder>models</folder>
+		<folder>views</folder>
+	</files>
+
+	<administration>
+		<menu>jmwlib Demonstration</menu>
+
+		<!--  Administrator Main File Copy Section -->
+		<files folder="administrator">
+		</files>
+
+	</administration>
+
+</install>
